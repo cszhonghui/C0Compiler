@@ -1,0 +1,30 @@
+int m,g,h,i;
+void main()
+{
+
+m=1;
+g=1;
+h=0;
+i=0;
+ while(m)
+ {
+   scanf(i);
+printf(1111111111);
+   if(i-3)
+  { m=m1()-i;}
+   else
+   { m=m1()+i; }
+   printf(m);
+   printf(12312313);
+ }
+   printf(555555555);
+}
+int m1()
+{
+ return 6;
+}
+
+int g1()
+{
+ return 7;
+}

@@ -1,0 +1,36 @@
+int m1()
+{
+ int m;
+ scanf(m);
+ return m;
+}
+void main()
+{
+int m,g,h,i,x,y;
+m=1*1*(1+5*3-75/5)-1;
+g=m;
+i=0;
+h=0;
+x=m1();
+ while(x-i+1)
+ {
+    m=m+i;
+    i=i+1;
+   printf(m);
+   }
+  y=g1();
+ while(y-h+1)
+ {
+      g=g+h;
+      h=h+1;
+     printf(g);
+ }
+}
+
+
+int g1()
+{
+ int m;
+ scanf(m);
+ return m;
+}
